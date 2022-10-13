@@ -6,7 +6,7 @@ to better my Data Science skills.
 The work is done in `python/` within mostly in Jupyter Notebooks.   
 With the expection of the Dash dashboard.
 
-Final *.pptx Presenation in `presentation/`.  
+Final `*.pptx` Presenation in `presentation/`.  
 Plots generated in `plots/`.
 
 ----
